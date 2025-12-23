@@ -14,7 +14,7 @@ research questions will be answered:
 - Which services experience the highest bed occupancy, and how do 
 occupancy patterns change over time? 
 - How does bed occupancy relate to patient refusal rates across services? 
-- How does high bed occupancy aƯect patient satisfaction and staƯ morale?
+- How does high bed occupancy affect patient satisfaction and staff morale?
 - How does patient demand (requests vs admissions) contribute to occupancy 
 pressure?
 ## Data Overview 
